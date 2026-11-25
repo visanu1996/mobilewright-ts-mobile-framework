@@ -1,0 +1,14 @@
+{
+  "name": "mobilewright-ts-mobile-framework",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@mobilewright/test": "^0.0.72",
+    "@types/node": "^26.6.8",
+    "mobilewright": "^0.0.72",
+    "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "test": "mobilewright test"
+  }
+}
